@@ -1,12 +1,12 @@
 # NLW eSports - Trilha Explorer
 
-![preview](./github/laionkings.github.io_Projeto-NLW-Esports_.png)
+![preview](./github/127.0.0.1_5500_index.html.png)
 
 > Trilha Explorer
 
 Projeto construído do evento Next Level Week da Rocketseat
 
-[Clique aqui para acessar](https://laionkings.github.io/Projeto-NLW-Esports/)
+[Clique aqui para acessar](https://laionkings.github.io/NLW-eSports-2/)
 
 ## Tecnologias
 
